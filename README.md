@@ -48,7 +48,7 @@
     <img src="https://media.giphy.com/media/237DHafdWjsUTiKJbB/giphy-downsized-large.gif"> 
     <h3>:iphone: Tablet Layout</h3>
     <img src="https://media.giphy.com/media/Yn44i2jirJlYn8vw5x/giphy-downsized-large.gif">
-    <h3>:desktop: Desktop Layout</h3>
+    <h3>:desktop_computer: Desktop Layout</h3>
     <img src="https://media.giphy.com/media/C9V1xrQNZ1aJoS7dJW/giphy.gif">
 </div>
 
