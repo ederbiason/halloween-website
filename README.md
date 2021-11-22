@@ -8,6 +8,8 @@
 <p align="center">
   <a href="#bulb-motivation">Motivation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#man_technologist-technologies-used">Technologies used</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#pushpin-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#art-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#handshake-contributing">Contributing</a>
 </p>
@@ -39,6 +41,16 @@
 - [x] Scroll up option
 - [ ] Cart System
 - [ ] Buy System
+
+## :art: Layout
+<div align="center"; diplay= "flex"; flex-direction= "row">
+    <h3>:iphone: Mobile Layout</h3>
+    <img src="https://media3.giphy.com/media/237DHafdWjsUTiKJbB/giphy.gif?cid=790b7611421a2ce94b9eb48b9592cf7ebc90ba18986c006e&rid=giphy.gif&ct=g"> 
+    <h3>:iphone: Tablet Layout</h3>
+    <img src="https://media3.giphy.com/media/6FmJeuz8isN3kz58ri/giphy.gif?cid=790b76113418b209f0c897c9e8516b3685fb1efef2c25eb2&rid=giphy.gif&ct=g">
+    <h3>:desktop: Desktop Layout</h3>
+    <img src="https://media4.giphy.com/media/C9V1xrQNZ1aJoS7dJW/giphy.gif?cid=790b7611116bbf330118a75088851197d0f25d7fe3aaec98&rid=giphy.gif&ct=g">
+</div>
 
 ## :memo: License
 This project is under the MIT license. See the [LICENSE](https://github.com/ederbiason/halloween-website/blob/main/LICENSE) for more information.
